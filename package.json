@@ -1,0 +1,22 @@
+{
+  "name": "json-logger",
+  "version": "0.0.0",
+  "description": "Super simple newline delimited printer (to stdout) similar to debug module",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --ui tdd log_test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lightsofapollo/json-logger.git"
+  },
+  "author": "James Lal [:lightsofapollo]",
+  "license": "Apache2",
+  "bugs": {
+    "url": "https://github.com/lightsofapollo/json-logger/issues"
+  },
+  "homepage": "https://github.com/lightsofapollo/json-logger",
+  "devDependencies": {
+    "mocha": "^1.21.4"
+  }
+}
