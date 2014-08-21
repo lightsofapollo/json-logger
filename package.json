@@ -1,8 +1,8 @@
 {
   "name": "json-logger",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Super simple newline delimited printer (to stdout) similar to debug module",
-  "main": "index.js",
+  "main": "log.js",
   "scripts": {
     "test": "mocha --ui tdd log_test.js"
   },
